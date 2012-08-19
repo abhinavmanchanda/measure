@@ -1,0 +1,516 @@
+<details>
+
+<device>
+<name>Google Nexus One</name>
+<model>Da Google Phone,Nexus One,HTC HD2,ADR6300</model>
+<length>119</length>
+<width>59.8</width>
+<thickness>11.5</thickness>
+</device>
+
+<device>
+<name>HTC G2(G1 Blaze)</name>
+<model>T- Mobile G2,HTC Vision</model>
+<length>119</length>
+<width>60.4</width>
+<thickness>14.2</thickness>
+</device>
+
+<device>
+<name>HTC Dream</name>
+<model>Era G1,HTC Dream G1,Htcclay's SuperBad G1,HTC Dream,Android Dev Phone 1,T-Mobile G1</model>
+<length>117.7</length>
+<width>55.7</width>
+<thickness>17.1</thickness>
+</device>
+
+<device>
+<name>HTC Magic</name>
+<model>sec_smdk6410,MAGICxXxTREME,HTC Magic</model>
+<length>113</length>
+<width>56</width>
+<thickness>15</thickness>
+</device>
+
+<device>
+<name>HTC Hero</name>
+<model>HERO200,Hero,Hero CDMA,HTC Hero</model>
+<length>112</length>
+<width>56.2</width>
+<thickness>14.35</thickness>
+</device>
+
+<device>
+<name>HTC Tattoo</name>
+<model>HTC Tattoo</model>
+<length>106</length>
+<width>55.2</width>
+<thickness>14</thickness>
+</device>
+
+<device>
+<name>HTC Eris</name>
+<model>ERIS,Eris</model>
+<length>114.3</length>
+<width>55.9</width>
+<thickness>12.7</thickness>
+</device>
+
+<device>
+<name>HTC Aria</name>
+<model>HTC Aria A6380,HTC Liberty</model>
+<length>104.1</length>
+<width>58.4</width>
+<thickness>11.7</thickness>
+</device>
+
+<device>
+<name>HTC Sprint Hero</name>
+<model></model>
+<length>114.3</length>
+<width>55.9</width>
+<thickness>12.7</thickness>
+</device>
+
+<device>
+<name>HTC Wildfire</name>
+<model></model>
+<length>106.8</length>
+<width>60.4</width>
+<thickness>12</thickness>
+</device>
+
+<device>
+<name>HTC Evo</name>
+<model>PC36100,SPH-D700</model>
+<length>122</length>
+<width>66</width>
+<thickness>12.7</thickness>
+</device>
+
+<device>
+<name>HTC Droid Incredible</name>
+<model>Incredible,ADR6300</model>
+<length>117.5</length>
+<width>58.5</width>
+<thickness>11.9</thickness>
+</device>
+
+<device>
+<name>HTC Desire HD</name>
+<model>Desire HD</model>
+<length>123</length>
+<width>68</width>
+<thickness>11.8</thickness>
+</device>
+
+<device>
+<name>HTC Desire/Passion/Bravo</name>
+<model>HTC Desire,HTC_Desire_A8183</model>
+<length>119</length>
+<width>60</width>
+<thickness>11.9</thickness>
+</device>
+
+<device>
+<name>HTC Legend</name>
+<model>Legend,HTC Legend</model>
+<length>112</length>
+<width>56.3</width>
+<thickness>11.5</thickness>
+</device>
+
+
+<device>
+<name>Motorola Charm</name>
+<model></model>
+<length>98.4</length>
+<width>67.2</width>
+<thickness>11.4</thickness>
+</device>
+
+<device>
+<name>Motorola I1/Opus One</name>
+<model></model>
+<length>118</length>
+<width>58</width>
+<thickness>12.8</thickness>
+</device>
+
+<device>
+<name>Motorola Droid 2</name>
+<model>DROID2,A955</model>
+<length>115.8</length>
+<width>60</width>
+<thickness>13.7</thickness>
+</device>
+
+<device>
+<name>Motorola Droid</name>
+<model>Milestone,Moto Droid,XT702,A853,Nexus One,Droid</model>
+<length>115.8</length>
+<width>60</width>
+<thickness>13.8</thickness>
+</device>
+
+<device>
+<name>Motorola Droid X</name>
+<model>DROIDX</model>
+<length>127.5</length>
+<width>65.5</width>
+<thickness>9.9</thickness>
+</device>
+
+<device>
+<name>Motorola MB300</name>
+<model></model>
+<length>108</length>
+<width>53</width>
+<thickness>15</thickness>
+</device>
+
+<device>
+<name>Motorola MT810(O Phone)</name>
+<model>MT810</model>
+<length>108.6</length>
+<width>55.5</width>
+<thickness>16.7</thickness>
+</device>
+
+<device>
+<name>Motorola CLIQ</name>
+<model>MB200</model>
+<length>114</length>
+<width>58</width>
+<thickness>15.6</thickness>
+</device>
+
+<device>
+<name>Motorola i1</name>
+<model></model>
+<length>118</length>
+<width>58</width>
+<thickness>12.8</thickness>
+</device>
+
+<device>
+<name>Motorola Titanium</name>
+<model>XT806,XT800</model>
+<length>120</length>
+<width>61.8</width>
+<thickness>11.4</thickness>
+</device>
+
+<device>
+<name>Motorola FlipOut</name>
+<model></model>
+<length>67</length>
+<width>67</width>
+<thickness>17</thickness>
+</device>
+
+<device>
+<name>Motorola CLIQ XT(USA)/Quench</name>
+<model></model>
+<length>116.8</length>
+<width>60</width>
+<thickness>12.4</thickness>
+</device>
+
+<device>
+<name>Motorola Backflip</name>
+<model></model>
+<length>53.0</length>
+<width>108.0</width>
+<thickness>15.3</thickness>
+</device>
+
+<device>
+<name>Motorola Devour</name>
+<model></model>
+<length>61</length>
+<width>115.5</width>
+<thickness>15.42</thickness>
+</device>
+
+<device>
+<name>Motorola Motoroi</name>
+<model>XT720,Milestone XT720</model>
+<length>116</length>
+<width>60.9</width>
+<thickness>10.9</thickness>
+</device>
+
+<device>
+<name>Samsung Intercept(Moment 2)</name>
+<model>SPH-M910</model>
+<length>113</length>
+<width>56</width>
+<thickness>15</thickness>
+</device>
+
+<device>
+<name>Samsung Transform</name>
+<model></model>
+<length>117</length>
+<width>61</width>
+<thickness>15</thickness>
+</device>
+
+<device>
+<name>Samsung Galaxy A/Apollo/M100S</name>
+<model>SHW-M100S</model>
+<length>119.5</length>
+<width>59.8</width>
+<thickness>12.5</thickness>
+</device>
+
+<device>
+<name>Samsung Galaxy 5 i5500</name>
+<model>GT-I5503,GT-I5500,GT-I5500B</model>
+<length>108</length>
+<width>56</width>
+<thickness>12.3</thickness>
+</device>
+
+<device>
+<name>Samsung T939</name>
+<model>SGH-T959</model>
+<length>116</length>
+<width>56</width>
+<thickness>13</thickness>
+</device>
+
+<device>
+<name>Samsung I7500 Galaxy</name>
+<model>I7500,Galaxy</model>
+<length>114</length>
+<width>58</width>
+<thickness>15.6</thickness>
+</device>
+
+<device>
+<name>Samsung Moment</name>
+<model>SPH-M900</model>
+<length>117</length>
+<width>59</width>
+<thickness>16.5</thickness>
+</device>
+
+<device>
+<name>Samsung Behold II</name>
+<model></model>
+<length>116</length>
+<width>56</width>
+<thickness>12</thickness>
+</device>
+
+<device>
+<name>Samsung Spica</name>
+<model>GT-I5700</model>
+<length>115</length>
+<width>57</width>
+<thickness>13.2</thickness>
+</device>
+
+<device>
+<name>Samsung Beam</name>
+<model>GT-I8520</model>
+<length>123</length>
+<width>59.8</width>
+<thickness>14.9</thickness>
+</device>
+
+<device>
+<name>Samsung Galaxy 3</name>
+<model>GT-I5800,GT-I5801</model>
+<length>113.5</length>
+<width>55</width>
+<thickness>12.9</thickness>
+</device>
+
+<device>
+<name>Samsung Galaxy S</name>
+<model>GT-I9000</model>
+<length>122.4</length>
+<width>64.2</width>
+<thickness>9.9</thickness>
+</device>
+
+<device>
+<name>LG Eve</name>
+<model>LG-GW620</model>
+<length>109</length>
+<width>54.5</width>
+<thickness>15.9</thickness>
+</device>
+
+<device>
+<name>LG LU2300</name>
+<model>LG-LU2300</model>
+<length>118.8</length>
+<width>57.0</width>
+<thickness>14.35</thickness>
+</device>
+
+<device>
+<name>LG Ally</name>
+<name>LG-VS740</name>
+<length>116</length>
+<width>56</width>
+<thickness>16</thickness>
+</device>
+
+<device>
+<name>LG GT540 Optimus</name>
+<model>GT540</model>
+<length>54.5</length>
+<width>109</width>
+<thickness>12.9</thickness>
+</device>
+
+<device>
+<name>Dell Aero</name>
+<length>122</length>
+<width>58.3</width>
+<thickness>11.7</thickness>
+</device>
+
+<device>
+<name>Dell Mini 3i</name>
+<model>Dell Mini 3</model>
+<length>120</length>
+<width>59.9</width>
+<thickness>11.7</thickness>
+</device>
+
+<device>
+<name>Dell Streak</name>
+<model>Dell Streak</model>
+<length>152</length>
+<width>152</width>
+<thickness>10</thickness>
+</device>
+
+<device>
+<name>Acer Liquid Stream</name>
+<length>119.5</length>
+<width>63</width>
+<thickness>11.2</thickness>
+</device>
+
+<device>
+<name>Acer Liquid E</name>
+<model>Acer Liquid</model>
+<length>115</length>
+<width>62.5</width>
+<thickness>12.5</thickness>
+</device>
+
+<device>
+<name>Acer beTouch E110</name>
+<length>103.5</length>
+<width>54</width>
+<thickness>13.4</thickness>
+</device>
+
+<device>
+<name>T-mobile myTouch 3G Slide</name>
+<length>115.6</length>
+<width>60.2</width>
+<thickness>15.2</thickness>
+</device>
+
+<device>
+<name>T-Mobile Pulse Mini</name>
+<model></model>
+<length>106</length>
+<width>57</width>
+<thickness>14</thickness>
+</device>
+
+<device>
+<name>Sony Xperia X8</name>
+<model>X8</model>
+<length>99</length>
+<width>54</width>
+<thickness>15</thickness>
+</device>
+
+<device>
+<name>Sony Xperia X10 Mini</name>
+<model>E10a,E10i,U20i</model>
+<length>83</length>
+<width>50</width>
+<thickness>16</thickness>
+</device>
+
+<device>
+<name>Sony Xperia X10</name>
+<model>X10i,SO-01B,X10a</model>
+<length>119</length>
+<width>63</width>
+<thickness>13</thickness>
+</device>
+
+<device>
+<name>Vodafone 845</name>
+<length>100</length>
+<width>55</width>
+<thickness>13</thickness>
+</device>
+
+<device>
+<name>Lenovo LePhone</name>
+<model>3GW100,qsd8250_surf</model>
+<length>120</length>
+<width>60</width>
+<thickness>12</thickness>
+</device>
+
+<device>
+<name>Garmin Asus A10</name>
+<length>109.8</length>
+<width>58.1</width>
+<thickness>13.9</thickness>
+</device>
+
+<device>
+<name>Garminfone</name>
+<model>OMS_TTD,Garmin-Asus A50</model>
+<length>116</length>
+<width>62.2</width>
+<thickness>12</thickness>
+</device>
+
+<device>
+<name>Geeksphone One</name>
+<model>Geeksphone ONE</model>
+<length>110</length>
+<width>55</width>
+<thickness>15</thickness>
+</device>
+
+<device>
+<name>Huawei Ideos</name>
+<length>104</length>
+<width>54.8</width>
+<thickness>13.5</thickness>
+</device>
+
+<device>
+<name>Huawei Pulse</name>
+<model>Pulse,U8220</model>
+<length>116</length>
+<width>63</width>
+<thickness>13.6</thickness>
+</device>
+
+<device>
+<name>Kyocera Zio M6000</name>
+<length>116</length>
+<width>58.6</width>
+<thickness>12.2</thickness>
+</device>
+
+</details>

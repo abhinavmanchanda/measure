@@ -1,0 +1,65 @@
+
+<RelativeLayout android:id="@+id/RelativeLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/backgroundimage">
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Measure Tool" android:layout_marginLeft="30dip" android:layout_marginTop="50dip" android:textSize="20dip"></TextView>
+<Button android:id="@+id/Button01" android:layout_toLeftOf="@+id/TextView01" android:text="start" android:layout_below="@+id/TextView01" android:layout_height="45dip" android:layout_marginLeft="25dip" android:layout_marginRight="20dip" android:layout_marginTop="30dip" android:layout_width="60dip"></Button>
+
+
+
+<TextView android:layout_below="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView03" android:layout_marginLeft="25dip" android:layout_marginTop="20dip" android:textSize="60dip" android:text="0.0"></TextView><TextView android:id="@+id/TextView04" android:layout_height="wrap_content" android:layout_below="@+id/TextView03" android:layout_width="wrap_content" android:text="Rotation Axis: " android:layout_marginTop="30dip" android:layout_marginLeft="25dip"></TextView><RadioGroup android:id="@+id/RadioGroup01" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_below="@+id/TextView06" android:orientation="horizontal" android:layout_marginTop="20dip"><RadioButton android:id="@+id/RadioButton01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="cm" android:layout_marginLeft="25dip" android:checked="true"></RadioButton>
+<RadioButton android:id="@+id/RadioButton02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="inch" android:layout_marginLeft="15dip"></RadioButton>
+</RadioGroup><TextView android:id="@+id/TextView06" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Rotations: " android:layout_marginLeft="25dip" android:layout_below="@+id/TextView04"></TextView><TextView android:layout_toRightOf="@+id/TextView06" android:id="@+id/TextView07" android:layout_height="wrap_content" android:layout_below="@+id/TextView04" android:layout_width="wrap_content" android:textColor="#ff0000"></TextView><TextView android:layout_toRightOf="@+id/TextView04" android:id="@+id/TextView05" android:layout_height="wrap_content" android:layout_width="wrap_content" android:textColor="#ff0000" android:layout_below="@+id/TextView03" android:layout_marginTop="30dip" android:text="NONE"></TextView><TextView android:layout_below="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView02" android:layout_toRightOf="@+id/TextView03" android:layout_marginLeft="5dip" android:layout_marginTop="55dip" android:textSize="20dip" android:text="cm"></TextView><RelativeLayout android:id="@+id/RelativeLayout02" android:layout_height="wrap_content" android:background="@drawable/metallic_silver" android:layout_alignParentRight="true" android:layout_width="67dip"><View android:layout_height="wrap_content" android:background="#000000" android:layout_alignParentRight="true" android:id="@+id/View03" android:layout_marginRight="55dip" android:layout_width="1dip"></View><View android:layout_height="wrap_content" android:background="#000000" android:layout_alignParentRight="true" android:id="@+id/View02" android:layout_width="2dip" android:layout_marginRight="65dip"></View>
+</RelativeLayout><Button android:layout_toRightOf="@+id/Button01" android:id="@+id/Button02" android:text="stop" android:layout_below="@+id/TextView01" android:layout_height="45dip" android:layout_marginTop="30dip" android:layout_width="60dip"></Button>
+
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/RadioGroup01"
+    android:layout_marginTop="21dp"
+    android:text="X: " />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/textView1"
+    android:text="Y: " />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/textView2"
+    android:text="Z: " />
+
+<TextView
+    android:id="@+id/x_rotations"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/textView1"
+    android:layout_alignBottom="@+id/textView1"
+    android:layout_toLeftOf="@+id/TextView05"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/y_rotations"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/textView2"
+    android:layout_alignBottom="@+id/textView2"
+    android:layout_alignRight="@+id/x_rotations"
+    android:text="0" />
+
+<TextView
+    android:id="@+id/z_rotations"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignBaseline="@+id/textView3"
+    android:layout_alignBottom="@+id/textView3"
+    android:layout_alignLeft="@+id/y_rotations"
+    android:text="0" />
+
+</RelativeLayout>

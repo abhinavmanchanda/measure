@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<AbsoluteLayout android:id="@+id/AbsoluteLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+<TextView android:layout_width="wrap_content" android:id="@+id/TextView01" android:layout_height="wrap_content" android:text="Dimension Details" android:textSize="20dip" android:layout_y="20dip" android:layout_x="10dip"></TextView>
+<TextView android:layout_width="wrap_content" android:id="@+id/TextView02" android:layout_height="wrap_content" android:text="Select Device" android:layout_x="10dip" android:layout_y="60dip"></TextView>
+
+<Spinner android:id="@+id/Spinner01" android:layout_width="180dip" android:layout_x="10dip" android:layout_height="40dip" android:layout_y="85dip"></Spinner><Button android:id="@+id/Button02" android:layout_width="wrap_content" android:text="Auto Detect" android:layout_height="40dip" android:layout_x="190dip" android:layout_y="85dip"></Button>
+<TextView android:layout_width="wrap_content" android:id="@+id/TextView03" android:layout_height="wrap_content" android:text="L :" android:layout_x="5dip" android:layout_y="210dip"></TextView>
+
+<TextView android:layout_width="wrap_content" android:id="@+id/TextView04" android:layout_height="wrap_content" android:text="W :" android:layout_x="105dip" android:layout_y="210dip"></TextView>
+
+<TextView android:layout_width="wrap_content" android:id="@+id/TextView05" android:layout_height="wrap_content" android:text="T :" android:layout_x="205dip" android:layout_y="210dip"></TextView>
+
+<TextView android:layout_width="wrap_content" android:id="@+id/TextView06" android:layout_height="wrap_content" android:text="If current device is not in above list, please enter the dimensions(in millimeters) manually" android:textSize="12dip" android:layout_x="5dip" android:layout_y="164dip"></TextView>
+<Button android:layout_x="19dip" android:layout_width="wrap_content" android:id="@+id/Button01" android:text="ok" android:layout_height="40dip" android:layout_y="264dip"></Button>
+<EditText android:id="@+id/EditText01" android:layout_height="40dip" android:numeric="decimal" android:layout_x="20dip" android:layout_width="70dip" android:layout_y="200dip"></EditText>
+<EditText android:id="@+id/EditText02" android:layout_height="40dip" android:numeric="decimal" android:layout_x="120dip" android:layout_width="70dip" android:layout_y="200dip"></EditText>
+<EditText android:id="@+id/EditText03" android:layout_height="40dip" android:numeric="decimal" android:layout_x="220dip" android:layout_width="70dip" android:layout_y="200dip"></EditText>
+
+<TextView android:layout_y="239dip" android:layout_x="65dip" android:id="@+id/TextView07" android:layout_height="wrap_content" android:textColor="#ff0000" android:layout_width="230dip"></TextView>
+
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView08" android:layout_width="wrap_content" android:layout_x="5dip" android:text="Auto Detect couldn't work for your device, please select manually from dropdown" android:layout_y="130dip" android:textSize="13dip" android:textStyle="bold" android:textColor="#ff0000" android:visibility="gone"></TextView>
+</AbsoluteLayout>
